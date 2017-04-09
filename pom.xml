@@ -62,6 +62,10 @@
     </license>
   </licenses>
 
+  <scm>
+    <developerConnection>scm:git:git@github.com:oneops/buildsupport.git</developerConnection>
+  </scm>
+
   <ciManagement>
     <system>Looper</system>
     <url>https://ci.stg.cloud.wal-mart.com/view/WARM/job/buildsupport/</url>
