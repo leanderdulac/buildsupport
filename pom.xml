@@ -52,6 +52,13 @@
     <url>http://walmart.com</url>
   </organization>
 
+  <developers>
+    <developer>
+      <name>OneOps</name>
+      <organization>Walmart, Inc.</organization>
+    </developer>
+  </developers>
+
   <!--
   FIXME: child-projects *MUST* explicitly declare their license.
   -->
@@ -64,6 +71,7 @@
 
   <scm>
     <developerConnection>scm:git:git@github.com:oneops/buildsupport.git</developerConnection>
+    <url>https://github.com/oneops/buildsupport</url>
     <tag>HEAD</tag>
   </scm>
 
