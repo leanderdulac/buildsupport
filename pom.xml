@@ -5,7 +5,7 @@
   <artifactId>buildsupport</artifactId>
   <name>${project.groupId}:${project.artifactId}</name>
   <packaging>pom</packaging>
-  <version>2-SNAPSHOT</version>
+  <version>2</version>
   <description>
     Common build configuration for OneOps projects.
   </description>
@@ -72,7 +72,7 @@
   <scm>
     <developerConnection>scm:git:git@github.com:oneops/buildsupport.git</developerConnection>
     <url>https://github.com/oneops/buildsupport</url>
-    <tag>HEAD</tag>
+    <tag>release-2</tag>
   </scm>
 
   <ciManagement>
